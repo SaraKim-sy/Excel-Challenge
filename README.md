@@ -101,9 +101,6 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 * Used the data to determine whether the mean or the median summarizes the data more meaningfully.
 
-* Used the data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-
-
-
+* Used the data to determine if there is more variability with successful or unsuccessful campaigns. 
 
 
