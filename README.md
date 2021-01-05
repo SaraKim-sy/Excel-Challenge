@@ -39,6 +39,12 @@ Using the Excel table provided, the data of 4,000 past Kickstarter projects was 
 
   * A pivot chart line graph that visualizes this new table was created.
   
+* A report in Microsoft Word and answer the following questions was created:
+
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+2. What are some limitations of this dataset?
+3. What are some other possible tables and/or graphs that we could create?
+
 * A new sheet with 8 columns was created:
 
   * `Goal`
@@ -71,6 +77,8 @@ Using the Excel table provided, the data of 4,000 past Kickstarter projects was 
 
 * A line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation was created.
 
+
+
 ## Statistical Analysis
 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table to evaluate the number of backers of successful and unsuccessful campaigns
@@ -95,11 +103,7 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 * Used the data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-* A report in Microsoft Word and answer the following questions was created:
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could create?
 
 
 
