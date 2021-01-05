@@ -6,7 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. This project is to organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-## Introduction
+## About the Project
 
 Using the Excel table provided, the data of 4,000 past Kickstarter projects was modified and analyzed to uncover some market trends.
 
@@ -38,8 +38,7 @@ Using the Excel table provided, the data of 4,000 past Kickstarter projects was 
   * A new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years` was created.
 
   * A pivot chart line graph that visualizes this new table was created.
-  ## Bonus
-
+  
 * A new sheet with 8 columns was created:
 
   * `Goal`
