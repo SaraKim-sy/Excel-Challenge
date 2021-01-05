@@ -81,7 +81,7 @@ Using the Excel table provided, the data of 4,000 past Kickstarter projects was 
 
 ## Statistical Analysis
 
-If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table to evaluate the number of backers of successful and unsuccessful campaigns
+If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table. The summary statistics table for the data was created to evaluate the number of backers of successful and unsuccessful campaigns.
 
 * A new worksheet, and a column each for the number of backers of successful campaigns and unsuccessful campaigns were created.
 
